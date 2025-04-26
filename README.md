@@ -3,12 +3,7 @@
 * Аналитик данных, продуктовый аналитик с банковским бэкграундом 💰
 * Аккумулирую опыт анализа метрик клиентов более 11 лет в различных банках с дата-аналитикой и поиском инсайтов в продуктах.
 
-<h2 align="center">FIND ME ON:
-<div align="center">
-
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Roman1991)</a>
-
-</div>
+<hr>
 
 ###  🛠️ Languages and Tools :  
 
@@ -25,9 +20,14 @@
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
+### <p align="center">FIND ME ON:</p>
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Roman1991)</a>
+
 <hr>
 
-* Мои проекты ✅:
+Мои проекты ✅:
   
 |Название проекта| Описание проекта| Стек|
 |:--------------:|:---------------:|:---:|
